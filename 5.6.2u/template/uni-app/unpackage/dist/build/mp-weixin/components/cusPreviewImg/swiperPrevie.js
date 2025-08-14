@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/cusPreviewImg/swiperPrevie"],{"9b7d":function(t,e,n){"use strict";var r=n("c9e5"),u=n.n(r);u.a},c9e5:function(t,e,n){},cb2a:function(t,e,n){"use strict";n.d(e,"b",(function(){return r})),n.d(e,"c",(function(){return u})),n.d(e,"a",(function(){}));var r=function(){var t=this.$createElement,e=(this._self._c,this.showBox?this.list.length:null),n=this.showBox&&e>0?Number(this.currentIndex):null,r=this.showBox&&e>0?this.list.length:null;this.$mp.data=Object.assign({},{$root:{g0:e,m0:n,g1:r}})},u=[]},ec34:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var r={name:"cusPreviewImg",props:{list:{type:Array,required:!0,default:function(){return[]}},circular:{type:Boolean,default:!0},duration:{type:Number,default:500}},data:function(){return{currentIndex:0,showBox:!1}},watch:{list:function(t){}},methods:{changeSwiper:function(t){this.currentIndex=t.target.current},open:function(t){this.list.length&&(this.currentIndex=t,this.showBox=!0)},close:function(){this.showBox=!1}}};e.default=r},edb5:function(t,e,n){"use strict";n.r(e);var r=n("cb2a"),u=n("f2f6");for(var i in u)["default"].indexOf(i)<0&&function(t){n.d(e,t,(function(){return u[t]}))}(i);n("9b7d");var o=n("828b"),c=Object(o["a"])(u["default"],r["b"],r["c"],!1,null,"144b3e80",null,!1,r["a"],void 0);e["default"]=c.exports},f2f6:function(t,e,n){"use strict";n.r(e);var r=n("ec34"),u=n.n(r);for(var i in r)["default"].indexOf(i)<0&&function(t){n.d(e,t,(function(){return r[t]}))}(i);e["default"]=u.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/cusPreviewImg/swiperPrevie-create-component',
+    {
+        'components/cusPreviewImg/swiperPrevie-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("edb5"))
+        })
+    },
+    [['components/cusPreviewImg/swiperPrevie-create-component']]
+]);

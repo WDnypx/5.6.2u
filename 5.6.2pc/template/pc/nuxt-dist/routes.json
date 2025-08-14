@@ -1,0 +1,241 @@
+[
+  {
+    "name": "about_us",
+    "path": "/about_us",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\about_us.vue",
+    "chunkName": "pages/about_us",
+    "_name": "_647b2b27"
+  },
+  {
+    "name": "alipay",
+    "path": "/alipay",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\alipay.vue",
+    "chunkName": "pages/alipay",
+    "_name": "_0e80d8be"
+  },
+  {
+    "name": "AppChat",
+    "path": "/AppChat",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\AppChat.vue",
+    "chunkName": "pages/AppChat",
+    "_name": "_6c1d7b32"
+  },
+  {
+    "name": "evaluation",
+    "path": "/evaluation",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\evaluation.vue",
+    "chunkName": "pages/evaluation",
+    "_name": "_72c71fda"
+  },
+  {
+    "name": "goods_cate",
+    "path": "/goods_cate",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_cate.vue",
+    "chunkName": "pages/goods_cate",
+    "_name": "_331c1d6f"
+  },
+  {
+    "name": "goods_list",
+    "path": "/goods_list",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_list.vue",
+    "chunkName": "pages/goods_list",
+    "_name": "_ff51d984"
+  },
+  {
+    "name": "goods_presell",
+    "path": "/goods_presell",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_presell.vue",
+    "chunkName": "pages/goods_presell",
+    "_name": "_713e06f6"
+  },
+  {
+    "name": "goods_presell_detail",
+    "path": "/goods_presell_detail",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_presell_detail.vue",
+    "chunkName": "pages/goods_presell_detail",
+    "_name": "_947e9d0a"
+  },
+  {
+    "name": "goods_search",
+    "path": "/goods_search",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_search.vue",
+    "chunkName": "pages/goods_search",
+    "_name": "_748cdd70"
+  },
+  {
+    "name": "goods_seckill",
+    "path": "/goods_seckill",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_seckill.vue",
+    "chunkName": "pages/goods_seckill",
+    "_name": "_eb4a0382"
+  },
+  {
+    "name": "goods_seckill_detail",
+    "path": "/goods_seckill_detail",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_seckill_detail.vue",
+    "chunkName": "pages/goods_seckill_detail",
+    "_name": "_3f63aafe"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_c5e1b43c"
+  },
+  {
+    "name": "logistics",
+    "path": "/logistics",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\logistics.vue",
+    "chunkName": "pages/logistics",
+    "_name": "_12c1930c"
+  },
+  {
+    "name": "mobile_login",
+    "path": "/mobile_login",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\mobile_login\\\\index.vue",
+    "chunkName": "pages/mobile_login/index",
+    "_name": "_3ff5187f"
+  },
+  {
+    "name": "news_detail",
+    "path": "/news_detail",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\news_detail.vue",
+    "chunkName": "pages/news_detail",
+    "_name": "_4dd63214"
+  },
+  {
+    "name": "news_list",
+    "path": "/news_list",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\news_list.vue",
+    "chunkName": "pages/news_list",
+    "_name": "_7a0b5ffa"
+  },
+  {
+    "name": "order_confirm",
+    "path": "/order_confirm",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\order_confirm.vue",
+    "chunkName": "pages/order_confirm",
+    "_name": "_69b60948"
+  },
+  {
+    "name": "order_detail",
+    "path": "/order_detail",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\order_detail.vue",
+    "chunkName": "pages/order_detail",
+    "_name": "_028ea70e"
+  },
+  {
+    "name": "payment",
+    "path": "/payment",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\payment.vue",
+    "chunkName": "pages/payment",
+    "_name": "_2aa23dbf"
+  },
+  {
+    "name": "refund",
+    "path": "/refund",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\refund.vue",
+    "chunkName": "pages/refund",
+    "_name": "_09a3c1cf"
+  },
+  {
+    "name": "refund_goods",
+    "path": "/refund_goods",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\refund_goods.vue",
+    "chunkName": "pages/refund_goods",
+    "_name": "_7de79934"
+  },
+  {
+    "name": "shoppingCart",
+    "path": "/shoppingCart",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\shoppingCart.vue",
+    "chunkName": "pages/shoppingCart",
+    "_name": "_cd86a882"
+  },
+  {
+    "path": "/user",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "children": [
+      {
+        "name": "user",
+        "path": "",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\index.vue",
+        "chunkName": "pages/user/index",
+        "_name": "_16b19c40"
+      },
+      {
+        "name": "user-address_list",
+        "path": "address_list",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\address_list.vue",
+        "chunkName": "pages/user/address_list",
+        "_name": "_b2bd282a"
+      },
+      {
+        "name": "user-balance",
+        "path": "balance",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\balance.vue",
+        "chunkName": "pages/user/balance",
+        "_name": "_38a85d6a"
+      },
+      {
+        "name": "user-collect",
+        "path": "collect",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\collect.vue",
+        "chunkName": "pages/user/collect",
+        "_name": "_760d0e90"
+      },
+      {
+        "name": "user-messageCenter",
+        "path": "messageCenter",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\messageCenter.vue",
+        "chunkName": "pages/user/messageCenter",
+        "_name": "_2255454a"
+      },
+      {
+        "name": "user-myCoupon",
+        "path": "myCoupon",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\myCoupon.vue",
+        "chunkName": "pages/user/myCoupon",
+        "_name": "_84800158"
+      },
+      {
+        "name": "user-orderList",
+        "path": "orderList",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\orderList.vue",
+        "chunkName": "pages/user/orderList",
+        "_name": "_8327f3cc"
+      },
+      {
+        "name": "user-userCoupon",
+        "path": "userCoupon",
+        "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\user\\\\userCoupon.vue",
+        "chunkName": "pages/user/userCoupon",
+        "_name": "_f29e0f9a"
+      }
+    ],
+    "_name": "_51375f3c"
+  },
+  {
+    "name": "wxPay",
+    "path": "/wxPay",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\wxPay.vue",
+    "chunkName": "pages/wxPay",
+    "_name": "_55a12d00"
+  },
+  {
+    "name": "goods_detail-id",
+    "path": "/goods_detail/:id",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\goods_detail\\\\_id\\\\index.vue",
+    "chunkName": "pages/goods_detail/_id/index",
+    "_name": "_c13cc06e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\pc\\\\zm\\\\昆明阔翔科技有限公司\\\\源码\\\\CRMEB-BZ-PC v5.6.2(20250626)\\\\template\\\\pc\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5930fa6a"
+  }
+]
